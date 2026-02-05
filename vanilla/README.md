@@ -63,7 +63,7 @@ Global CSS styling for:
 
 ```bash
 # Using Git
-git clone https://github.com/yourusername/auth-integration-evolation.git
+git clone [https://github.com/yourusername/auth-integration-evolation.git](https://github.com/muhammad-husnain-ali-web/auth-system-evolution.git)
 
 # Navigate to vanilla folder
 cd auth-integration-evolation/vanilla
